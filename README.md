@@ -9,6 +9,7 @@ Explainable AI (XAI) techniques are used to interpret the model predictions and 
 Heart-Disease-Prediction-XAI/
 │
 ├── src/
+│ └── heart_disease_prediction.ipynb
 ├── docs/
 ├── README.md
 ├── requirements.txt
@@ -18,3 +19,7 @@ Heart-Disease-Prediction-XAI/
 ## System Architecture
 
 ![Architecture](architecture.png)
+
+## Conclusion
+
+This project successfully predicts heart disease risk using multiple machine learning models and enhances transparency using Explainable AI techniques. The system helps in early risk identification and supports clinical decision-making.
