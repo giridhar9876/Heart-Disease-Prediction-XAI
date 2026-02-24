@@ -15,3 +15,6 @@ Heart-Disease-Prediction-XAI/
 ├── architecture.png
 ├── demo_video_link.txt
 └── setup_instructions.md
+## System Architecture
+
+![Architecture](architecture.png)
